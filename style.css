@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: cursiva;
-    src: url(fontes/Cream\ Cake.otf);
+    src: url(Cream\ Cake.otf);
 }
 
 @font-face {
     font-family: fonte-1;
-    src: url(fontes/KGBlankSpaceSolid.ttf);
+    src: url(KGBlankSpaceSolid.ttf);
 }
 
 body{
